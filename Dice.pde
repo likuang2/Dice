@@ -1,4 +1,4 @@
-void setup(){
+//void setup(){
     size (430,445);
     noLoop();
 }
