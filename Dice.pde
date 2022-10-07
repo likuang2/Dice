@@ -1,9 +1,9 @@
-//void setup(){
+void setup(){
     size (430,445);
     noLoop();
 }
 //the amount of die
-//void draw(){
+void draw(){
     text("", 300,680);
     int totalScore = 0;
     background(0);
