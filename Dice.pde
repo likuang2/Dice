@@ -3,7 +3,7 @@ void setup(){
     noLoop();
 }
 //the amount of die
-void draw(){
+//void draw(){
     text("", 300,680);
     int totalScore = 0;
     background(0);
